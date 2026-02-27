@@ -140,7 +140,7 @@ otprune/
 │   └── llava/
 │       └── model/
 │           └── llava_arch.py               # Core OTPrune implementation
-│               ├── greedy_select()         #   DPP greedy selection algorithm
+│               ├── greedy_select()         #   Fast greedy selection algorithm
 │               ├── OTPrune()               #   Kernel construction + token selection
 │               └── prepare_inputs_labels_for_multimodal()
 │                                           #   Integration into LLaVA forward pass
