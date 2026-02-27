@@ -8,9 +8,6 @@ Official implementation of **OTPrune**, a training-free visual token pruning fra
 
 OTPrune formulates token pruning as distribution alignment via optimal transport (OT). By minimizing the 2-Wasserstein distance between the full and pruned token distributions, it preserves both local diversity and global representativeness while significantly reducing inference cost (~90% token reduction with minimal performance drop).
 
-<p align="center">
-  <img src="assets/framework.png" width="90%" alt="OTPrune Framework"/>
-</p>
 
 ---
 
