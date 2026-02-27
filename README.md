@@ -154,7 +154,15 @@ otprune/
 
 ## Citation
 
-Coming soon.
+```
+@article{chen2026otprune,
+  title={OTPrune: Distribution-Aligned Visual Token Pruning via Optimal Transport},
+  author={Chen, Xiwen and Zhu, Wenhui and Li, Gen and Dong, Xuanzhao and Xiong, Yujian and Wang, Hao and Qiu, Peijie and Song, Qingquan and Wang, Zhipeng and Tang, Shao and others},
+  journal={arXiv preprint arXiv:2602.20205},
+  year={2026}
+}
+```
+
 
 ---
 
