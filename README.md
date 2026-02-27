@@ -2,7 +2,7 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2602.20205-b31b1b.svg)](https://arxiv.org/abs/2602.20205)
 [![Conference](https://img.shields.io/badge/CVPR-2026-4b44ce.svg)](https://cvpr.thecvf.com/)
-[![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
 Official implementation of **OTPrune**, a training-free visual token pruning framework for Multi-modal Large Language Models (MLLMs).
 
