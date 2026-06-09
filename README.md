@@ -1,12 +1,12 @@
 # OTPrune: Distribution-Aligned Visual Token Pruning via Optimal Transport
 
 [![arXiv](https://img.shields.io/badge/arXiv-2602.20205-b31b1b.svg)](https://arxiv.org/abs/2602.20205)
-[![Conference](https://img.shields.io/badge/CVPR-2026-4b44ce.svg)](https://cvpr.thecvf.com/)
+[![Conference](https://img.shields.io/badge/CVPR-2026-4b44ce.svg)](https://cvpr.thecvf.com/virtual/2026/poster/41079)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
-Official implementation of **OTPrune**, a training-free visual token pruning framework for Multi-modal Large Language Models (MLLMs).
+Official implementation of **OTPrune**, a training-free visual token pruning framework for Multimodal Large Language Models (MLLMs).
 
-OTPrune formulates token pruning as distribution alignment via optimal transport (OT). By minimizing the 2-Wasserstein distance between the full and pruned token distributions, it preserves both local diversity and global representativeness while significantly reducing inference cost (~90% token reduction with minimal performance drop).
+OTPrune formulates token pruning as a distribution alignment problem via optimal transport (OT). By minimizing the 2-Wasserstein distance between the full and pruned token distributions, it preserves both the local diversity and global representativeness while significantly reducing inference cost (~90% token reduction with minimal performance drop).
 
 
 ---
